@@ -1,0 +1,18 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Django database file
+db.sqlite3
+
+# Django migrations
+**/migrations/*.pyc
+**/migrations/__pycache__/
+
+# VSCode settings (optional, if you’re sharing repo)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
